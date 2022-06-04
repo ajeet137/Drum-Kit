@@ -86,9 +86,9 @@ footer {
   background-color: white;
 }
 @media(min-width: 1073px){
-  h1{
+/*   h1{
     font-size: 5rem;
-  }
+  } */
   .drum{
     border: 7px solid #404b69;
     font-size: 3rem;
