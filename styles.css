@@ -85,20 +85,4 @@ footer {
   margin: 10px;
   background-color: white;
 }
-@media(min-width: 1073px){
-/*   h1{
-    font-size: 5rem;
-  } */
-  .drum{
-    border: 7px solid #404b69;
-    font-size: 3rem;
-    width: 130px;
-    height: 130px;
-  }
-  /* .d{
-    display: block;
-    margin-left: 40%;
-  } */
 
-  
-}
