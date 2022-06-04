@@ -87,13 +87,13 @@ footer {
 }
 @media(max-width: 555px){
   h1{
-    font-size: 4.5rem;
+    font-size: 5rem;
   }
   .drum{
-    border: 6px solid #404b69;
+    border: 7px solid #404b69;
     font-size: 3rem;
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
   }
   /* .d{
     display: block;
