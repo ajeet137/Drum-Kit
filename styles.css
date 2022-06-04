@@ -85,7 +85,7 @@ footer {
   margin: 10px;
   background-color: white;
 }
-@media(max-width: 555px){
+@media(min-width: 1073px){
   h1{
     font-size: 5rem;
   }
